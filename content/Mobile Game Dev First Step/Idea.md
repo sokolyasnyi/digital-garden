@@ -1,7 +1,7 @@
 ---
-title: Untitled
+title: Idea
 draft: false
-tags: 
+tags:
   - develop
 ---
 
