@@ -3,10 +3,9 @@ title: Tools
 draft: false
 tags:
 ---
-
 ## My equipment
 
-- MacBook Pro 13 M1
+- MacBook Pro 13 M1 (personal PC)
 - Apple Magic Keyboard
 - Apple Trackpad
 - Monitor Gigabite MU32
@@ -15,9 +14,7 @@ tags:
 
 ## Productivity
 
-- [Hammerspoon](http://hammerspoon.org/): automation for macOS with lua. I use it to run emacs-everywhere
-- [Raycast](https://www.raycast.com/): a better launcher
-- [Rectangle](https://rectangleapp.com/): easily organize windows
+- [Magnet](https://magnet.crowdcafe.com): easily organize windows
 
 ## Image processing
 
@@ -25,65 +22,36 @@ tags:
 - [Picgo](https://picgo.github.io/PicGo-Doc/en/guide/): image uploader
 - [ImageMagick](https://imagemagick.org/): command-line tool to edit and convert images
 
-## Privacy
-
-- [Temp email](https://internxt.com/temporary-email): temporary email, include a temporary inbox
-
 ## Media resources
 
-- [youtube-dl](https://github.com/ytdl-org/youtube-dl/tree/master): command-line tool to download YouTube video
-- [cobalt](https://cobalt.tools/): online YouTube downloader; can be downloaded as video or audio file
+- [ClipGrab](https://clipgrab.org): online YouTube downloader; can be downloaded as video or audio file
 
 ## 📨 Mail
 
 - Spark: smart email management on macOS and iOS. Terrible search though.
+- Apple Mail: simple email management
 
 ## 📝 Note-taking
 
-- [Org-roam](https://www.orgroam.com/): plain-text knowledge management on Emacs. Inspired by Roam Research.
+- [TextMate](https://macromates.com): plain-text knowledge management.
 
 ## ✅ To-do/GTD
 
-- [Org-mode](https://orgmode.org/): organize your life in plain text in Emacs
-- [Goblin.tools](http://goblin.tools/): powered with AI to help break down tasks
-- [爱时间](https://apps.apple.com/cn/app/%E7%88%B1%E6%97%B6%E9%97%B4-%E6%97%B6%E9%97%B4%E7%AE%A1%E7%90%86%E4%B8%8E%E7%95%AA%E8%8C%84%E9%92%9F/id1526641366): 24/7 time tracking app
+- [Things3](https://culturedcode.com/things/): Best to-do app 
 
 ## 📆 Calendar
 
-- Google Calendar
-- [How long left](https://apps.apple.com/au/app/how-long-left/id1388832966): menu bar app to display the countdown of calendar events
-- [Itsycal](https://www.mowglii.com/itsycal/): cute menu bar calendar
-- [Calendr](https://github.com/pakerwreah/Calendr): minimal menu bar calendar
+- Apple Calendar
 
 ## 📖 Reading/Audiobook
 
-- Libby: library app
 - Apple Books: iOS book reader
-- BookPlayer: iOS app to play local audiobooks
-- RSS Radio: iOS podcast app, highly customizable
-- elfeed: RSS reader on Emacs
-- Pocket: read-it-later app
-- pocket-reader: Pocket’s Emacs plugin
-- Raindrop: bookmark for useful website
-- MyAnonaMouse: private tracker for audiobooks
-- Z-lib
-
-## 📜 Editing
-
-- Emacs: the editor to rule them all
-- Typora: minimalistic markdown editor
-- RStudio: use exclusively for R
-- [Squirrel (rime)](https://github.com/rime/squirrel): open source Chinese input
-
-## 💰 Budgeting and Personal Finance
-
-- YNAB: You-Need-A-Budget, expensive but so worth it
-- Portfolio Performance: open source investment portfolio tool
+- Apple Podcasts
+- Litres
 
 ## 🔐 Password Management
 
-- Safari password manager
-- [Password generator](https://internxt.com/password-generator)
+- Apple Passwords
 
 ## 💡 Blogging
 
@@ -96,15 +64,13 @@ tags:
 
 ## 🪷 Meditation
 
-- Insight Timer
-- Plum Village
-- Oak
+- Endel
+- Fitness+
 
 ## 🔧 Miscs
 
 - [IT Tools](https://it-tools.tech/): handy tools for developers, including various converter
 - [Allinone.tools](https://allinone.tools/): convert files
-- AnyList: grocery shopping list iOS app
 
 ## Pixel art tools
 
