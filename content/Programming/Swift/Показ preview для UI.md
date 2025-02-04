@@ -1,5 +1,5 @@
 ---
-title: Untitled
+title: Показ preview для UI
 draft: false
 tags:
   - develop

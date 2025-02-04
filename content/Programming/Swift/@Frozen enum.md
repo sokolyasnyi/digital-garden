@@ -1,5 +1,5 @@
 ---
-title: Untitled
+title: "@Frozen enum"
 draft: false
 tags:
   - develop

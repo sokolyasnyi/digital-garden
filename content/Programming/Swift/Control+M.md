@@ -1,5 +1,5 @@
 ---
-title: Untitled
+title: Control+M
 draft: false
 tags:
   - develop
