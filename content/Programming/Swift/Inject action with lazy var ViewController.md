@@ -11,7 +11,7 @@ You can inject action in composition layer before real create viewController
 
  ```swift
 private func makeFriendsList() -> UIViewController {
-	weak var lazy var FiendsListViewController?
+	weak var FiendsListViewController?
 
 	let isPremium = User.shared?.isPremium == true
 
