@@ -8,18 +8,18 @@ tags:
 ---
 Внедряем зависимость через closure.
 
-```
+```swift
 class DataManager { 
 
-static let shared = DataManager()
+	static let shared = DataManager()
 
-typealias DirectionFetcher = (HYCPlacemark, HYCPlacemark, @escaping (Result<[MKRoute], Error>) -> ()) -> Void)
-private let directionFetcher: DirectionFetcher
+	typealias DirectionFetcher = (HYCPlacemark, HYCPlacemark, @escaping (Result<[MKRoute], Error>) -> ()) -> Void)
+	private let directionFetcher: DirectionFetcher
 
-init(directionFetcher: @escaping DirectionFetcher = MapManager.calculateDirections) {
-self.directionFetcher = directionFetcher
+	init(directionFetcher: @escaping DirectionFetcher = MapManager.calculateDirections) {
+	self.directionFetcher = directionFetcher
+	}
 }
-}`
 ```
 
 

@@ -30,11 +30,10 @@ private func makeFriendsList() -> UIViewController {
 		}
 	)
 
-let service = isPremium ? api.fallback(cache) : api
+	let service = isPremium ? api.fallback(cache) : api
 
-let vc = FiendsListViewController(service: service)
-lazyVC = vc
- 
+	let vc = FiendsListViewController(service: service)
+	lazyVC = vc
 }
 ```
 
