@@ -1,10 +1,11 @@
-
-
 ---
-#### captured [[2025-02-25]] at `08:56`
-
-Custom SF Symbols
-
+title: Custom SF Symbols
+draft: false
+tags:
+  - develop
+  - UI
+  - designer
+---
 Пошаговый туториал по созданию кастомных SF Symbols.
 
 🟢Creation
@@ -13,4 +14,5 @@ Custom SF Symbols
 🟢Usage
 
 Читать (En) 
- https://app.hints.so/link/GE1gkU1nZAb1zf2u5
+Источник: https://app.hints.so/link/GE1gkU1nZAb1zf2u5 
+
