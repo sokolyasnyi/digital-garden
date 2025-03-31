@@ -11,6 +11,7 @@ tags:
 - Monitor Gigabite MU32
 - Mac Mini M2 (working station for CI/CD)
 - MacBook Pro 13 M3 (working PC for developing)
+- AirPods Max 2
 
 ## Productivity
 
