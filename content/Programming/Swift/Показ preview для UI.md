@@ -10,7 +10,6 @@ tags:
 struct DemoViewController_Previews: PreviewProvider {
 	static var previews: some View {
 	DemoViewControllerRepresentable().edgesIgnoringSafeArea(.vertical)
-
    }
 }
 ```

@@ -1,5 +1,5 @@
 ---
-title: Untitled
+title: Получение Binary size из fastlane
 draft: false
 tags:
   - develop

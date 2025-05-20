@@ -4,6 +4,7 @@ draft: false
 tags:
   - develop
   - ios
+  - enum
 ---
  ```swift
  @frozen
