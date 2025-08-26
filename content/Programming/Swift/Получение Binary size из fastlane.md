@@ -7,6 +7,6 @@ tags:
   - metrics
   - fastlane
 ---
- Размер загруженного бинарника можно получить из Fastlane
+Размер загруженного бинарника можно получить из Fastlane
 
 Source: https://medium.com/mercari-engineering/one-approach-to-monitoring-ios-application-performance-dca73d02b2e8
