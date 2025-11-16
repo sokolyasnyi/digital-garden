@@ -8,7 +8,7 @@ tags:
   - multitreading
   - continuations
 ---
- Что мы изучали ранее:
+Что мы изучали ранее:
 
 [Процессы, Потоки, Очереди и зачем нужен Grand Central Dispatch](https://www.notion.so/Grand-Central-Dispatch-1a6b8c8f842b816b8a68dcf7f7d32347?pvs=21)
 
