@@ -1,10 +1,12 @@
 ---
-title: Create unit-tests for vc
+title: Create unit_snapshot-tests for vc
 draft: false
 tags:
   - develop
   - llm
   - script
+  - testing
+  - automation
 ---
  
 Можно взять для Cursor и сделать тест, который он будет делать только с помощью данного скрипта.
