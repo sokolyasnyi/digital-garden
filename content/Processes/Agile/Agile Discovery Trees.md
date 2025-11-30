@@ -6,7 +6,6 @@ tags:
   - discovery
   - tasks
 ---
- 
-Подход с созданием карты задач
+ Подход с созданием карты задач
 
 Source: https://www.industriallogic.com/blog/discovery-trees/

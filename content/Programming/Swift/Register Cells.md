@@ -8,7 +8,7 @@ tags:
   - UITableView
   - register
 ---
- Хороший вариант сокрытия реализации по ячейке в таблице или коллекции
+Хороший вариант сокрытия реализации по ячейке в таблице или коллекции
 ```swift
 protocol BannerCellControllerCellProtocol: AnyObject {
     func didTapHide(indexPath: IndexPath)
