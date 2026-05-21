@@ -49,6 +49,7 @@ tags:
 - Apple Books: iOS book reader
 - Apple Podcasts
 - Litres
+- Kindle
 
 ## 🔐 Password Management
 
@@ -67,6 +68,7 @@ tags:
 
 - Endel
 - Fitness+
+- Whoop
 
 ## 🔧 Miscs
 
