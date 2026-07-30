@@ -36,11 +36,11 @@ task:
 
         instruction: |
 
-          В проекте должен быть тестовый таргет, например `mcd_iosTests`.
+          В проекте должен быть тестовый таргет, например `mcd-Tests`.
 
           Путь к тестам обычно:
 
-          `<project_root>/mcd_iosTests/`
+          `<project_root>/mcd-Tests/`
 
           Если тестовый таргет находится в другом месте, укажи его путь вручную.
 
@@ -80,8 +80,6 @@ task:
 
           final class <ViewController>Tests: XCTestCase {
 
-  
-
               // MARK: - Основные тесты
 
               func test_canInit() {
@@ -91,8 +89,6 @@ task:
                   XCTAssertNotNil(sut)
 
               }
-
-  
 
               func test_viewDidLoad_initialState() {
 
@@ -104,16 +100,11 @@ task:
 
               }
 
-  
-
               // MARK: - Helpers
 
               private func makeSUT(file: StaticString = #filePath, line: UInt = #line) -> <ViewController> {
-
                   let sut = <ViewController>()
-
                   trackForMemoryLeaks(sut, file: file, line: line)
-
                   return sut
 
               }
@@ -121,7 +112,6 @@ task:
           }
 
   
-
       - action: "Добавление файла в проект"
 
         instruction: |
@@ -175,11 +165,11 @@ task:
 
         instruction: |
 
-          В проекте должен быть тестовый таргет, например `mcd_iosTests`.
+          В проекте должен быть тестовый таргет, например `mcd-Tests`.
 
           Путь к тестам обычно:
 
-          `<project_root>/mcd_iosTests/`
+          `<project_root>/mcd-Tests/`
 
           Если тестовый таргет находится в другом месте, укажи его путь вручную.
 
@@ -221,7 +211,6 @@ task:
 
           final class <ViewController>Tests: XCTestCase {
 
-  
 
               // MARK: - Основные тесты
 
@@ -233,8 +222,6 @@ task:
 
               }
 
-  
-
               func test_viewDidLoad_initialState() {
 
                   let sut = makeSUT()
@@ -245,18 +232,12 @@ task:
 
               }
 
-  
-
               // MARK: - Helpers
 
               private func makeSUT(file: StaticString = #filePath, line: UInt = #line) -> <ViewController> {
-
                   let sut = <ViewController>()
-
                   trackForMemoryLeaks(sut, file: file, line: line)
-
                   return sut
-
               }
 
           }
@@ -269,7 +250,7 @@ task:
 
           - Добавь созданный файл в тестовый таргет через Xcode:
 
-            Xcode → Add Files to “mcd_iosTests”
+            Xcode → Add Files to “mcd-Tests”
 
       - action: "Проверка корректности"
 

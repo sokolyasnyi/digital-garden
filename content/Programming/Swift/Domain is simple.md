@@ -18,7 +18,8 @@ Many things can change from your DTO to your Domain model implementation:
 ```swift
 /// BAD 
 /// It's just a 1-1 with DTO with all attributes 
-struct User { let id: Int
+struct User { 
+	let id: Int
 	let firstname: String
 	let lastname: String
 	let companyId: Int
@@ -90,7 +91,5 @@ struct UserSettings {
 	let address: Address
 }
 ```
-
-
 
 Источник: https://swiftunwrap.com/article/data-vs-domain/

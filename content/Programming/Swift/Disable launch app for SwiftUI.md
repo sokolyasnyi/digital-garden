@@ -25,7 +25,7 @@ tags:
 		 }
 	 }
  }
-```
+ ```
 
 Source: https://www.youtube.com/watch?v=FvAP2mdUGaw&list=PL-NrXVEjQ-o8N2opeVDjRFNeXp588C35H&index=3
 https://qualitycoding.org/bypass-swiftui-app-launch-unit-testing/

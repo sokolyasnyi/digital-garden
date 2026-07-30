@@ -8,8 +8,7 @@ tags:
 
 You can inject action in composition layer before real create viewController
 
-
- ```swift
+```swift
 private func makeFriendsList() -> UIViewController {
 	weak var FiendsListViewController?
 
@@ -36,7 +35,6 @@ private func makeFriendsList() -> UIViewController {
 	lazyVC = vc
 }
 ```
-
 
 Источник: https://www.youtube.com/watch?v=XJXbOvyV-VY
 Lecture #3 - The fastest and simplest way to become a complete Senior iOS Developer
